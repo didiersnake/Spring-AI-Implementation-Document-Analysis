@@ -1,0 +1,401 @@
+# Sentiment Analysis Results
+
+## Summary Statistics
+
+Total Feedback Entries: 50
+Sentiment Distribution:
+- NEUTRAL: 50 (100.0%)
+
+## Department Analysis
+
+### Grocery
+
+- NEUTRAL: 5 (100.0%)
+
+### Online Shopping
+
+- NEUTRAL: 5 (100.0%)
+
+### Returns
+
+- NEUTRAL: 8 (100.0%)
+
+### Customer Service
+
+- NEUTRAL: 4 (100.0%)
+
+### Checkout
+
+- NEUTRAL: 5 (100.0%)
+
+### Home Goods
+
+- NEUTRAL: 3 (100.0%)
+
+### Clothing
+
+- NEUTRAL: 6 (100.0%)
+
+### Product Selection
+
+- NEUTRAL: 5 (100.0%)
+
+### Store Environment
+
+- NEUTRAL: 4 (100.0%)
+
+### Electronics
+
+- NEUTRAL: 5 (100.0%)
+
+## Detailed Feedback Entries
+
+Feedback #1
+Customer: Lisa Martinez, New Customer
+Department: Returns
+Date: 2025-04-24
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #2
+Customer: Michael Johnson, Loyalty Member
+Department: Customer Service
+Date: 2025-05-10
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #3
+Customer: Emily Williams, Online Shopper
+Department: Returns
+Date: 2025-04-14
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #4
+Customer: James Rodriguez, Returning Customer
+Department: Electronics
+Date: 2025-05-02
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #5
+Customer: David Garcia, VIP Member
+Department: Checkout
+Date: 2025-05-03
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #6
+Customer: Lisa Martinez, New Customer
+Department: Returns
+Date: 2025-05-05
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #7
+Customer: Lisa Martinez, New Customer
+Department: Customer Service
+Date: 2025-04-13
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #8
+Customer: David Garcia, VIP Member
+Department: Product Selection
+Date: 2025-04-29
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #9
+Customer: James Rodriguez, Returning Customer
+Department: Product Selection
+Date: 2025-04-24
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #10
+Customer: James Rodriguez, Returning Customer
+Department: Online Shopping
+Date: 2025-04-11
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #11
+Customer: Patricia Wilson, Weekend Shopper
+Department: Home Goods
+Date: 2025-04-17
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #12
+Customer: Jane Smith, First-time Shopper
+Department: Clothing
+Date: 2025-04-25
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #13
+Customer: Robert Brown, Frequent Buyer
+Department: Electronics
+Date: 2025-05-07
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #14
+Customer: John Doe, Regular Customer
+Department: Grocery
+Date: 2025-04-19
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #15
+Customer: Emily Williams, Online Shopper
+Department: Clothing
+Date: 2025-04-28
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #16
+Customer: Sarah Miller, Occasional Shopper
+Department: Electronics
+Date: 2025-05-06
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #17
+Customer: David Garcia, VIP Member
+Department: Returns
+Date: 2025-04-22
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #18
+Customer: Jane Smith, First-time Shopper
+Department: Grocery
+Date: 2025-04-15
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #19
+Customer: Michael Johnson, Loyalty Member
+Department: Home Goods
+Date: 2025-04-13
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #20
+Customer: John Doe, Regular Customer
+Department: Store Environment
+Date: 2025-05-09
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #21
+Customer: Robert Brown, Frequent Buyer
+Department: Online Shopping
+Date: 2025-04-20
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #22
+Customer: John Doe, Regular Customer
+Department: Store Environment
+Date: 2025-04-26
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #23
+Customer: David Garcia, VIP Member
+Department: Grocery
+Date: 2025-04-16
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #24
+Customer: Patricia Wilson, Weekend Shopper
+Department: Customer Service
+Date: 2025-05-08
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #25
+Customer: Robert Brown, Frequent Buyer
+Department: Returns
+Date: 2025-04-18
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #26
+Customer: Sarah Miller, Occasional Shopper
+Department: Checkout
+Date: 2025-04-12
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #27
+Customer: Michael Johnson, Loyalty Member
+Department: Online Shopping
+Date: 2025-05-04
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #28
+Customer: John Doe, Regular Customer
+Department: Clothing
+Date: 2025-04-23
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #29
+Customer: Sarah Miller, Occasional Shopper
+Department: Returns
+Date: 2025-04-30
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #30
+Customer: Jane Smith, First-time Shopper
+Department: Checkout
+Date: 2025-05-01
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #31
+Customer: Patricia Wilson, Weekend Shopper
+Department: Online Shopping
+Date: 2025-04-21
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #32
+Customer: Emily Williams, Online Shopper
+Department: Store Environment
+Date: 2025-05-06
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #33
+Customer: David Garcia, VIP Member
+Department: Product Selection
+Date: 2025-04-15
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #34
+Customer: Lisa Martinez, New Customer
+Department: Electronics
+Date: 2025-04-27
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #35
+Customer: Emily Williams, Online Shopper
+Department: Grocery
+Date: 2025-04-12
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #36
+Customer: Robert Brown, Frequent Buyer
+Department: Home Goods
+Date: 2025-04-29
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #37
+Customer: Michael Johnson, Loyalty Member
+Department: Returns
+Date: 2025-05-09
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #38
+Customer: James Rodriguez, Returning Customer
+Department: Customer Service
+Date: 2025-04-19
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #39
+Customer: John Doe, Regular Customer
+Department: Clothing
+Date: 2025-05-10
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #40
+Customer: Sarah Miller, Occasional Shopper
+Department: Product Selection
+Date: 2025-04-14
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #41
+Customer: Patricia Wilson, Weekend Shopper
+Department: Returns
+Date: 2025-05-03
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #42
+Customer: Lisa Martinez, New Customer
+Department: Checkout
+Date: 2025-04-17
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #43
+Customer: Robert Brown, Frequent Buyer
+Department: Clothing
+Date: 2025-04-25
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #44
+Customer: Jane Smith, First-time Shopper
+Department: Electronics
+Date: 2025-05-02
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #45
+Customer: David Garcia, VIP Member
+Department: Store Environment
+Date: 2025-04-23
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #46
+Customer: Emily Williams, Online Shopper
+Department: Checkout
+Date: 2025-04-27
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #47
+Customer: James Rodriguez, Returning Customer
+Department: Grocery
+Date: 2025-05-07
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #48
+Customer: Sarah Miller, Occasional Shopper
+Department: Online Shopping
+Date: 2025-04-16
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #49
+Customer: John Doe, Regular Customer
+Department: Product Selection
+Date: 2025-05-05
+Comment:
+Sentiment: NEUTRAL
+
+Feedback #50
+Customer: Michael Johnson, Loyalty Member
+Department: Clothing
+Date: 2025-04-22
+Comment:
+Sentiment: NEUTRAL
